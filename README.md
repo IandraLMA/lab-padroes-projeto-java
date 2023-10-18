@@ -4,3 +4,6 @@ Repositório com as implementações dos padrões de projeto explorados no Lab "
 - Singleton
 - Strategy
 - Facade
+# Adicionado como desafio projeto os padrões
+- Builder
+- Factory
